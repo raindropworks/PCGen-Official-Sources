@@ -1,0 +1,10 @@
+SOURCELONG:Pathfinder Player Companion - Martial Arts Handbook	SOURCESHORT:MAH	SOURCEWEB:https://paizo.com/products/btq01vb0	SOURCEDATE:2017-11
+# Original Entry by: Heather-Lynne Van Wilde
+
+###Block: Unchained Ki Power
+# Ability Name		Unique Key							Category of Ability		Type												Required Ability											Var. Min. Value			Description																																																																																																																																																																																																					Stackable?	Multiple?	Choose		Bonus Ability Pool		Source Page
+Action Before Thought		KEY:Unchained Ki Power ~ Action Before Thought		CATEGORY:Special Ability	TYPE:Unchained Ki Power.SpecialQuality.Supernatural.Action Before Thought		PREVARGTEQ:KiPowerLVL,6		DESC:A monk with this ability can spend 2 ki points as a free action as part of rolling initiative to roll twice on the initiative check and take the higher result.		SOURCEPAGE:p20
+
+Bare-Hand Block		KEY:Unchained Ki Power ~ Bare-Hand Block		CATEGORY:Special Ability	TYPE:Unchained Ki Power.SpecialQuality.Supernatural.Bare-Hand Block		PREABILITY:1,CATEGORY=Special Ability,Unchained Ki Power ~ Ki Sunder		PREVARGTEQ:KiPowerLVL,8		DESC:A monk with this ability can spend 1 ki point as an immediate action when attacked with a manufactured weapon to attempt an unarmed sunder combat maneuver check against it. If he successfully sunders the weapon and grants it the broken condition, the attack deals no damage. He can spend an additional 1 ki point when using this ability to activate ki sunder as a free action.		SOURCEPAGE:p20
+
+Ki Sunder		KEY:Unchained Ki Power ~ Ki Sunder		CATEGORY:Special Ability	TYPE:Unchained Ki Power.SpecialQuality.Supernatural.Ki Sunder		DESC:A monk with this ability can spend 1 ki point as a free action when attempting a sunder combat maneuver check to add his monk level as a bonus to the damage roll.		SOURCEPAGE:p20
